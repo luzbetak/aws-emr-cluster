@@ -15,6 +15,6 @@ Amazon Elastic MapReduce (EMR) Example
 
 
 ### Sequence of execution
-* ./1-create-cluster.sh
-* ./2-upload-step.sh
-* ./3-run-step.sh j-xxxxxxxxxxx
+* ./1b-create-cluster.sh
+* ./upload-step-to-s3.sh
+* ./2b-run-step.sh j-xxxxxxxxxxx
